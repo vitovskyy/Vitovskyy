@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vitovskyy
+- 👋 Hi, I’m @vitovskyy
 - 👀 I’m interested in creating influential applications!
 - 💞️ I’m looking to collaborate on exciting projects!
 - 📫 How to reach me via DM or LinkedIn :)
