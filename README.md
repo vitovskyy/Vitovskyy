@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Vitovskyy
-- 👀 I’m interested in ...creating influential applications!
-- 🌱 I’m currently learning ...python!
-- 💞️ I’m looking to collaborate on ...exciting projects!
-- 📫 How to reach me ...via DM or LinkedIn :)
+- 👀 I’m interested in creating influential applications!
+- 💞️ I’m looking to collaborate on exciting projects!
+- 📫 How to reach me via DM or LinkedIn :)
 
 <!---
 Vitovskyy/Vitovskyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
